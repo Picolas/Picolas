@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Nicolas</h1>
-<h3 align="center">24 years old, based in Paris, consultant developer at eXalt IT, graduated from Esiee Paris with an engineering degree in Computer Science</h3>
+<h3 align="center">25 years old, based in Paris, consultant developer at eXalt IT, graduated from Esiee Paris with an engineering degree in Computer Science</h3>
 
-<p align="center">💬 Reach me at npiplard@gmail.com or on my Personnal website https://nicolaspiplard.fr/</p>
+<p align="center">💬 Reach me at npiplard@gmail.com or on my Personnal website https://nicolas.nz/</p>
 <p align="center">Leetcode : https://leetcode.com/u/Picolas/</p>
 
 <h2 align="center">💻 What I use</h2>
